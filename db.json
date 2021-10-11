@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel prastha",
+      "age": 100
+    },
+    {
+      "name": "roach",
+      "age": 2,
+      "id": 2
+    },
+    {
+      "name": "miu",
+      "age": 1,
+      "id": 3
+    },
+    {
+      "name": "Clow",
+      "age": 5,
+      "id": 4
+    },
+    {
+      "name": "Clow",
+      "age": 5,
+      "id": 5
+    },
+    {
+      "name": "Clow",
+      "age": 5,
+      "id": 6
+    },
+    {
+      "name": "ench",
+      "age": 32,
+      "id": 7
+    }
+  ]
+}
